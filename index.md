@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# A journey into the land of keyboards
 
-You can use the [editor on GitHub](https://github.com/aaronbush/keyboards/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is my journal into the land of keyboards.  As a software engineer there are many hours spent using a keyboard so I figured why not make it a positive experience and get to know my daily companion a little better.  I have long appreciated the experience of using a good mechanical keyboard.  Being new to the hobby (I expect this will approach that level) and with so much to learn.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Pieces and Parts
+Here are some links that I have discovered related to the various components of a keyboard.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Switches
+Different types and colors and mechanics...
 
-```markdown
-Syntax highlighted code block
+### Caps
+Different types and profiles galore.
 
-# Header 1
-## Header 2
-### Header 3
+### Circuits / PCBs
+Information on the matrix structure used:
+ - [How to make a keyboard - the matrix](http://blog.komar.be/how-to-make-a-keyboard-the-matrix/)
+ - [YouTube series on designing/making PCB/etc.](https://www.youtube.com/channel/UCpWGAJr2AU7LPUwVYbBQZRg)
+ - Looks like the [ATMEGA-32u4](https://www.microchip.com/wwwproducts/en/ATmega32u4) is used often.
 
-- Bulleted
-- List
+### Software / Firmware
+ - What runs on the microcontroller in a keyboard [QMK](https://qmk.fm/).  I really want to check this out more.
+ - Help make real-time changes to your keyboard software [Via](https://caniusevia.com/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Sites
+ - [Geek Hack Forums](https://geekhack.org/)
+ - [Reddit Mechanical Keyboards] (https://reddit.com/r/mechanicalKeyboards/)
+ - [Open source Hardware for a 60%](http://blog.komar.be/)
+ - 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Builds
+Collection of my keyboard builds.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aaronbush/keyboards/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ - [The first one (needs a name)](builds/first.md)
