@@ -23,11 +23,11 @@ Other components already on hand:
 ## Taking Inventory
 Starting with the PCB and plate.  I needed to get my bearings.  Which way is face-up and North/South on this.
 
-![PCB and Plate](/media/first/parts.jpg)
+![PCB and Plate](./media/first/parts.jpg)
 
 Something that I noticed on the board is that there was a small cluster of spare parts (resistors and diodes).  Not sure if this is common but I appreciated it.
 
-![Spare SMT Parts](/media/first/spares.jpg)
+![Spare SMT Parts](./media/first/spares.jpg)
 
 A closer look at the bottom side of the board shows us the microcontroller being used.  We can see the [ATMEGA-32u4](https://www.microchip.com/wwwproducts/en/ATmega32u4) there with a 16Mhz crystal above and reset switch below.  I also just noticed the points for [ISP](https://en.wikipedia.org/wiki/In-system_programming).  You can also see the RBG LEDs for under-lighting.
 
@@ -66,9 +66,9 @@ Here we are with all the switches in place and plugged in and checking each of t
 
 Next I set the assembled PCB into the case with the foam pad underneath.  The most challenging part of this was locating a small Phillips style screw driver that has a small diameter shaft to get to a couple of the screws that are in a deep counterbored hole on the bottom of the case.  Here is the PCB set in place with a few keycaps set on.
 
-![Qwerty](/media/first/qwerty.jpg)
+![Qwerty](./media/first/qwerty.jpg)
 
-![Qwerty](/media/first/qwerty-2.jpg)
+![Qwerty](./media/first/qwerty-2.jpg)
 
 Here is the first take of all the keycaps set in place.  I am really liking the profile of these caps and the feel of the Red Silent switches.
 
