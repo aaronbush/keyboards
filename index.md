@@ -24,7 +24,7 @@ Information on the matrix structure used:
 
 ### Sites
  - [Geek Hack Forums](https://geekhack.org/)
- - [Reddit Mechanical Keyboards] (https://reddit.com/r/mechanicalKeyboards/)
+ - [Reddit Mechanical Keyboards](https://reddit.com/r/mechanicalKeyboards/)
  - [Open source Hardware for a 60%](http://blog.komar.be/)
  - 
 ```
